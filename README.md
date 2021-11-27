@@ -20,3 +20,4 @@ Add `set clipboard+=unnamed` to .ideavimrc
 https://github.com/haydenhw/vim-editor-settings/blob/main/vim_menu_icon_jetbrains.PNG
 
 https://stackoverflow.com/questions/27898407/intellij-idea-with-ideavim-cannot-copy-text-from-another-source
+fdsa
